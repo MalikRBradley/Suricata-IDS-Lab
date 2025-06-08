@@ -32,9 +32,19 @@ This is my Suricata IDS setup on Ubuntu, built to detect real-time network threa
 
 ---
 
-## 🧪 Test Traffic
-
+##🧪 Test Traffic
 I ran this command to simulate threat activity:
-```bash
+
 curl http://testmynids.org/uid/index.html
+
+Resulted in this alert:
+
+GPL ATTACK_RESPONSE id check returned root
+
+🔜 Next Step
+I'm now working on forwarding Suricata alerts to Wazuh for full SIEM integration.
+
+👤 Author
+Malik Bradley
+🔗 LinkedIn: www.linkedin.com/in/malik-bradley-a1273b28a
 
