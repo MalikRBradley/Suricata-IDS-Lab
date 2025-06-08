@@ -21,12 +21,10 @@ This is my Suricata IDS setup on Ubuntu, built to detect real-time network threa
 
 
 ### ✅ Rule Validation
-![Image](https://github.com/user-attachments/assets/f5a48e4b-f329-473f-9ab8-5e91c755421d)
-
-
-### 📡 Suricata Running in IDS Mode
 ![Image](https://github.com/user-attachments/assets/dbf1c298-c9c7-487f-bcd6-1c787d7b68e8)
 
+### 📡 Suricata Running in IDS Mode
+![Image](https://github.com/user-attachments/assets/f5a48e4b-f329-473f-9ab8-5e91c755421d)
 
 ### 🚨 Detected Alert in fast.log
 ![Image](https://github.com/user-attachments/assets/68bdcc6c-5d2e-4f58-b460-971ca6794452)
